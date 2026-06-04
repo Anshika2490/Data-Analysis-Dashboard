@@ -216,7 +216,7 @@ The primary dashboard provides a consolidated overview of road accident casualti
 
 This visualization compares monthly casualties across 2021 and 2022, helping identify seasonal patterns and year-over-year changes.
 
-![Monthly Trend Analysis](https://drive.google.com/file/d/1vDa4y681IYdDdIDUHkEzQ82yZJfSNtOM/view?usp=drive_link)
+![Monthly Trend Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Monthly%20Trend%20Chart.png?raw=true)
 
 ---
 
