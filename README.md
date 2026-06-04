@@ -232,7 +232,7 @@ This analysis highlights casualty distribution across different vehicle categori
 
 This visualization compares casualty figures between Urban and Rural areas to identify location-based accident trends.
 
-![Urban Rural Analysis](https://drive.google.com/file/d/19g_xG7Qw2E2xQRsv6o7sXTeTMdNvb8L8/view?usp=drive_link)
+![Urban Rural Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Area%20Casualities.png?raw=true)
 
 ---
 
