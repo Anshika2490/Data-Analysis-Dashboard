@@ -216,7 +216,7 @@ The primary dashboard provides a consolidated overview of road accident casualti
 
 This visualization compares monthly casualties across 2021 and 2022, helping identify seasonal patterns and year-over-year changes.
 
-![Monthly Trend Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Monthly%20Trend%20Chart.png?raw=true)
+[Monthly Trend Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Monthly%20Trend%20Chart.png?raw=true)
 
 ---
 
@@ -224,7 +224,7 @@ This visualization compares monthly casualties across 2021 and 2022, helping ide
 
 This analysis highlights casualty distribution across different vehicle categories, helping identify the vehicles most frequently involved in accidents.
 
-![Vehicle Type Analysis]((https://drive.google.com/file/d/1ctXR5DRRzYx07wADzV_jLWXtH6-5WtO8/view?usp=drive_link))
+[Vehicle Type Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Vehicle%20Casualities%20.png)
 
 ---
 
@@ -232,7 +232,7 @@ This analysis highlights casualty distribution across different vehicle categori
 
 This visualization compares casualty figures between Urban and Rural areas to identify location-based accident trends.
 
-![Urban Rural Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Area%20Casualities.png?raw=true)
+[Urban Rural Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Area%20Casualities.png)
 
 ---
 
@@ -240,7 +240,7 @@ This visualization compares casualty figures between Urban and Rural areas to id
 
 This section examines accident casualties under various road surface conditions such as Dry, Wet, and Snow/Ice roads.
 
-![Road Surface Analysis](https://drive.google.com/file/d/1f-Ra6LJQ0Js06clVndBZuSPDxQQqynlv/view?usp=drive_link)
+[Road Surface Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Road%20Surface.png)
 
 ---
 
@@ -248,7 +248,7 @@ This section examines accident casualties under various road surface conditions 
 
 This visualization compares casualty figures between Urban and Rural areas to identify location-based accident trends.
 
-![Urban Rural Analysis](https://drive.google.com/file/d/1NFrKLYGUO_v9gk7n-COENI6T7YmEBTRd/view?usp=drive_link)
+[Road Type Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Road%20Type.png)
 
 ---
 
@@ -256,7 +256,7 @@ This visualization compares casualty figures between Urban and Rural areas to id
 
 This section analyzes accident occurrence under different lighting conditions, including Daylight and Darkness.
 
-![Light Condition Analysis](https://drive.google.com/file/d/1aFAQccHXImabQkJjj_3MwkWWng-v7kQ9/view?usp=drive_link)
+[Light Condition Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Light%20Conditions%20Casualities.png)
 
 ---
 
@@ -264,7 +264,7 @@ This section analyzes accident occurrence under different lighting conditions, i
 
 This analysis provides a breakdown of Fatal, Serious, and Slight casualties, helping assess the overall severity of road accidents.
 
-![Casualty Severity Analysis](https://drive.google.com/file/d/1QrfvaPtNgvxqCtuboy7yRuuebIFAafUW/view?usp=drive_link)
+[Casualty Severity Analysis](https://github.com/Anshika2490/Data-Analysis-Dashboard/blob/main/Casuality%20Severity.png)
 
 ---
 
