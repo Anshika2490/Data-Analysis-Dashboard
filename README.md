@@ -208,7 +208,7 @@ Road Accident Data.xlsx
 
 The primary dashboard provides a consolidated overview of road accident casualties, key performance indicators, and interactive filters.
 
-![Main Dashboard](images/Road-Accident-Dashboard.png)
+![Main Dashboard](Road-Accident-Data-Dashboard/Road-Accident-Dashboard.png)
 
 ---
 
